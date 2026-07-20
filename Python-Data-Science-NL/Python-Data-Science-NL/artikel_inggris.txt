@@ -1,0 +1,5 @@
+Natural Language Processing (NLP) is a branch of artificial intelligence (AI) that focuses on enabling computers to understand, interpret, and manipulate human language.
+
+Through NLP pipeline stages—including tokenization, text normalization, stemming, lemmatization, and part-of-speech tagging—machines can process unstructured human text and extract meaningful insights.
+
+Currently, NLP supports many everyday applications such as virtual assistants (Siri, Google Assistant), machine translation tools (Google Translate), autocorrect features, sentiment analysis, and email spam filters. Despite challenges such as sarcasm and uncertainty of meaning (ambiguity), modern deep learning models have made communication between humans and computers smoother than ever.

@@ -1,0 +1,5 @@
+Pemrosesan Bahasa Alami (NLP) adalah cabang dari kecerdasan buatan (AI) yang berfokus untuk memungkinkan komputer memahami, menafsirkan, dan memanipulasi bahasa manusia.
+
+Melalui tahapan alur kerja (pipeline) NLP—termasuk tokenisasi, normalisasi teks, stemming, lemmatization, dan penandaan kelas kata (part-of-speech tagging)—mesin dapat memproses teks manusia yang tidak terstruktur dan mengekstrak wawasan yang bermakna.
+
+Saat ini, NLP mendukung banyak aplikasi sehari-hari seperti asisten virtual (Siri, Google Assistant), alat penerjemah mesin (Google Translate), fitur koreksi otomatis (autocorrect), analisis sentimen, dan filter pesan spam pada email. Terlepas dari tantangan seperti sarkasme dan ketidakpastian makna (ambiguitas), model pembelajaran mendalam (deep learning) modern telah membuat komunikasi antara manusia dan komputer menjadi lebih lancar dari sebelumnya.
