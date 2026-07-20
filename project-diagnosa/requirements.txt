@@ -1,0 +1,14 @@
+# --- Core Data Science & Machine Learning ---
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+
+# --- Backend API Integration (FastAPI) ---
+fastapi>=0.100.0
+uvicorn>=0.22.0
+pydantic>=2.0.0
+
+# --- Frontend Deployment & UI Interfacing ---
+streamlit>=1.25.0
+requests>=2.31.0
+flask

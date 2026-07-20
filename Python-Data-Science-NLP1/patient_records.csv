@@ -1,0 +1,24 @@
+keluhan_utama,diagnosis,saran_terapi,Tekanan_Darah,Gula_Darah,suhu_tubuh
+"Pasien mengeluh demam tinggi, batuk kering, dan nyeri tenggorokan selama tiga hari.",influenza,Istirahat & Parasetamol,161,215,39
+"Mengalami hidung tersumbat, bersin-bersin, mata gatal setelah terpapar debu.",alergi,Antihistamin,154,129,39
+"Merasa lelah terus-menerus, kehilangan minat pada hobi, sulit tidur selama berminggu-minggu.",depresi,Konsultasi Psikolog,94,176,38
+"Sakit kepala hebat, mual, muntah, dan sensitif terhadap cahaya.",migrain,Obat Pereda Nyeri,171,140,35
+"Kulit gatal kemerahan, bengkak di beberapa area setelah makan seafood.",alergi,Antihistamin,178,220,36
+"Perasaan sedih yang mendalam, putus asa, dan perubahan nafsu makan signifikan.",depresi,Konsultasi Psikolog,92,246,37
+"Gejala mirip flu tapi lebih ringan, dengan pilek dan sedikit demam.",flu_biasa,Istirahat & Minum Air,166,101,35
+"Sering cemas tanpa alasan jelas, detak jantung cepat, tangan berkeringat.",gangguan_kecemasan,Konsultasi Psikolog,152,187,36
+"Sakit perut hebat, diare, dan muntah berkali-kali.",diare,Rehidrasi & Obat Diare,120,219,36
+"Batuk berdahak, sesak napas, dan demam rendah.",bronkitis,Obat Batuk & Istirahat,126,104,37
+"Gatal-gatal di seluruh tubuh, ruam merah, dan bengkak bibir setelah makan udang.",alergi,Antihistamin & Hindari Pemicu,122,142,38
+"Perasaan panik mendadak, jantung berdebar, dan kesulitan bernapas tanpa sebab jelas.",gangguan_kecemasan,Terapi Kognitif,149,154,35
+"Demam dan nyeri otot serta sendi, disertai ruam merah.",demam_berdarah,Obat Demam & Istirahat,112,162,38
+"Sering buang air kecil, mudah haus, dan cepat lapar, berat badan turun tanpa sebab.",diabetes,Perubahan Gaya Hidup & Obat Diabetes,178,162,39
+"Mata kabur, sakit kepala, leher kaku, dan sensitif terhadap cahaya.",migrain,Obat Migrain & Istirahat,96,189,39
+"Tidak bisa tidur, nafsu makan hilang, merasa tidak berharga.",depresi,Konsultasi Psikolog & Antidepresan,123,85,36
+"Sakit tenggorokan, batuk kering, hidung tersumbat, dan nyeri kepala ringan.",flu_biasa,Istirahat & Parasetamol,152,152,38
+"Demam tinggi, menggigil, nyeri badan, dan batuk yang parah.",influenza,Istirahat Total & Antivirus,114,91,39
+"Kulit kering bersisik, gatal parah, terutama di malam hari.",eksim,Krim Pelembab & Antihistamin,115,154,36
+"Nyeri ulu hati, mual, perut kembung, dan sering bersendawa.",maag,Obat Maag & Atur Diet,113,93,39
+"Kesulitan berkonsentrasi, sering lupa, mudah tersinggung.",stres,Manajemen Stres & Relaksasi,136,208,36
+"Lemas, pucat, pusing, dan detak jantung tidak teratur.",anemia,Suplemen Zat Besi & Nutrisi,144,248,39
+"Nyeri dada, sesak napas, berkeringat dingin, menjalar ke lengan kiri.",serangan_jantung,Rujuk Spesialis Jantung,145,91,37
